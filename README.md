@@ -1,6 +1,6 @@
 <!-- Hang Thien -->
 <a href="https://github.com/hangthien" target="_blank">
-  <img src="images/hangthien.png" width="1200" alt="hangthien-official" />
+  <img src="sgv/hangthien.sgv" width="1200" alt="hangthien-official" />
 </a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
