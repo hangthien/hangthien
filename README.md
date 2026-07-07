@@ -73,5 +73,5 @@
 <h2 align="center">📑 My Favorite Quote 📑</h2>
 <br>
 <a href="https://github.com/hangthien" target="_blank">
-  <img src="images/hangthien-quotes.png" width="846" height="150" alt="hangthien-favorite-quote" />
+  <img src="svg/hangthien-quotes.svg" width="846" height="150" alt="hangthien-favorite-quote" />
 </a>
