@@ -1,6 +1,6 @@
 <!-- Hang Thien -->
 <a href="https://github.com/hangthien" target="_blank">
-  <img src="svg/hangthien.svg" width="1200" alt="hangthien-official" />
+  <img src="images/hangthien.png" width="1200" alt="hangthien-official" />
 </a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
@@ -80,5 +80,5 @@
 <h2 align="center">📑 My Favorite Quote 📑</h2>
 <br>
 <a href="https://github.com/hangthien" target="_blank">
-  <img src="svg/hangthien-quotes.svg" width="846" height="150" alt="hangthien-favorite-quote" />
+  <img src="images/hangthien-quotes.png" width="846" height="150" alt="hangthien-favorite-quote" />
 </a>
